@@ -1,0 +1,24 @@
+# Ignore system and application files
+../.cache/
+../.config/
+../.eclipse/
+../.gitconfig
+../.lemminx/
+../.m2/
+../.p2/
+../.vscode/
+../AppData/
+../Contacts/
+../Downloads/
+../Favorites/
+../Links/
+../Music/
+../NTUSER.DAT*
+../OneDrive/
+../Searches/
+../Videos/
+../eclipse/
+../logs/
+../ntuser.dat.LOG1
+../ntuser.dat.LOG2
+../ntuser.ini
