@@ -1,24 +1,40 @@
-# Ignore system and application files
-../.cache/
-../.config/
-../.eclipse/
-../.gitconfig
-../.lemminx/
-../.m2/
-../.p2/
-../.vscode/
-../AppData/
-../Contacts/
-../Downloads/
-../Favorites/
-../Links/
-../Music/
-../NTUSER.DAT*
-../OneDrive/
-../Searches/
-../Videos/
-../eclipse/
-../logs/
-../ntuser.dat.LOG1
-../ntuser.dat.LOG2
-../ntuser.ini
+# Ignore specific folders inside the project directory
+.cache/
+.config/
+.eclipse/
+.gitconfig
+.lemminx/
+.m2/
+.p2/
+.vscode/
+AppData/
+Contacts/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.DAT*
+OneDrive/
+Searches/
+Videos/
+eclipse/
+logs/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+
+# Ignore system directories explicitly (if applicable within project scope)
+Application Data/
+Cookies/
+Documents/My Music/
+Documents/My Pictures/
+Documents/My Videos/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+
